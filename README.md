@@ -2,7 +2,6 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning JavaScript in the TripleTen Software Engineering bootcamp.
 - 💞️ I’m looking to collaborate on open-source projects. 
-- 📫 How to reach me ...
 - ⚡ Fun fact: My background is in carpentry, and many of the problem-solving skills I developed as a carpenter have been useful in solving coding problems. 
 
 <!---
